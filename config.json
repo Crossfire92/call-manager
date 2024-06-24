@@ -1,0 +1,63 @@
+{
+  "dbName" : "call-manager-dev",
+  "serverPort" : 8081,
+  "gpios" : {
+    "PIN1" : {
+      "pinNumber": 1,
+      "gpioPort": 17
+    },
+  
+    "PIN2" : {
+      "pinNumber": 2,
+      "gpioPort": 18
+    },
+  
+    "PIN3" : {
+      "pinNumber": 3,
+      "gpioPort": 27
+    },
+  
+    "PIN4" : {
+      "pinNumber": 4,
+      "gpioPort": 22
+    },
+  
+    "PIN5" : {
+      "pinNumber": 5,
+      "gpioPort": 23
+    },
+  
+    "PIN6" : {
+      "pinNumber": 6,
+      "gpioPort": 24
+    },
+  
+    "PIN7" : {
+      "pinNumber": 7,
+      "gpioPort": 8
+    },
+  
+    "PIN8" : {
+      "pinNumber": 8,
+      "gpioPort": 11
+    },
+  
+    "PIN9" : {
+      "pinNumber": 9,
+      "gpioPort": 7
+    },
+  
+    "PIN10" : {
+      "pinNumber": 10,
+      "gpioPort": 5
+    },
+    "PIN11" : {
+      "pinNumber" : 11,
+      "gpioPort" : 12
+    },
+    "PIN12" : {
+      "pinNumber" : 12,
+      "gpioPort": 6
+    }
+  }
+}

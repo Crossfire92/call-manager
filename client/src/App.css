@@ -1,0 +1,217 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+*{
+  font-family:"Frutiger LT W01 45 Light" sans-serif;
+}
+
+.container {  
+  width: 100%;
+  text-align: center;
+}
+body {
+  background-color: #E2F0F1;
+  margin-left: 45px;
+  margin-right: 45px;
+  width: 100vw;
+}
+
+header {
+  margin-top: 15px;
+  text-align: start;
+}
+
+#nav{
+  display: flex;
+  flex-direction: row;
+  background-color:#CAE5E8;
+  height: 16vh;
+  align-items: center;
+  justify-content: center;
+  width: 99%;
+  margin-bottom: 30px;
+
+}
+
+.ip_port {
+  width:120px; 
+  height: 20px;
+  background: white;
+}
+
+p {
+  background-color: rgb(220, 0, 0) !important;
+  color: white;
+  margin-top: 30px;
+  margin-left: 30px; 
+  text-align: center;
+}
+
+#tick {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+#tick2 {
+  width: 20px;
+  height: 20px;
+  margin-left: 20px;
+}
+
+#cross {
+  width: 20px;
+  height: 20px;
+  margin-left: 15px;
+}
+
+#save {
+  background-color:#95C9CC;
+  border: none;
+  margin-top: 15px;
+  width: 100px;
+  height: 40px;
+  box-shadow: 5px 5px 5px black;
+}
+
+.main {  
+  background-color:#95C9CC;
+  height: 100%;
+  padding-top: 5%;
+  background-size: cover;
+}
+
+h6 {
+  margin-left: 20px;
+  margin-top: 12px;
+}
+
+.rectangle {
+  background-color: #CAE5E8;
+  box-shadow: 5px 5px 5px  grey;
+  z-index: 0;
+  margin: 20px;
+  margin-top: 0px;
+}
+
+
+.description {
+  height: 20px;
+  background: white;
+  margin-left: 20px;
+}
+
+.Zeile.Enabled {
+  display: flex;
+  flex-direction: row;
+}
+
+.checkbox {
+  width: 20px;
+  height: 20px;
+  color: #CAE5E8;
+}
+
+nav {
+  width: 100%;
+}
+
+.Logo {
+  margin-top: 20px;
+  float: right;
+  width: 100px;
+  height: 100px;
+}
+
+.pos_neg {
+  height: 2vh;
+}
+
+.table1 {
+  display: flex;
+  justify-content: center;
+}
+
+.small {
+  height: 20px;
+  background: white;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 20%;
+}
+
+.Button {
+  height: 30px;
+  border-radius: 15px;
+  margin-top: .20px;
+}
+
+.execute {
+  width: 15vw;
+  height: 35px;
+  margin-top: 15px;
+  background-color: #95C9CC;
+  box-shadow: 3px 3px 3px black;
+  border-radius: 25px;
+}
+
+.field {
+  height: 30px;
+  width: 150px;
+  margin-bottom: -10px;
+  z-index: 10;
+}
+.field2 {
+  height: 50px;
+  width: 200px;
+  margin-bottom: -10px;
+  margin-top: 40px;
+  z-index: 10;
+}
+
+.choose {
+  width: 130px;
+}
+
+.tastatur{
+  margin-left: -10px;
+}
+
+
+.signal {
+  margin-top: 20px;
+}
+
+.col-sm-3{
+  margin-top: 40px;
+}
+
+.buttonpos {
+  margin-top: 0px;
+}

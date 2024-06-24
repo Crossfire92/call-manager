@@ -1,0 +1,135 @@
+{
+    "cards": [
+      {
+        "groupid" : 1,
+        "groupname" : "anlagen",
+        "content" : {
+        "name" : "Anlagen- und Apparatebauer*in",
+        "description": "",
+        "picture" : "",
+        "pictureObject" : "",
+        "specialty": "",
+        "location": "",
+        "duration": ""
+        }
+      },
+      {
+        "groupid" : 2,
+        "groupname" : "aufzug",
+        "content" : {
+        "name" : "Aufzugsmonteur*in",
+        "description": "",
+        "picture" : "",
+        "pictureObject" : "",
+        "specialty": "",
+        "location": "",
+        "duration": ""
+        }
+      },
+      {
+        "groupid" : 3,
+        "groupname" : "elektronik",
+        "content" : {
+        "name" : "Elektroniker*in",
+        "description": "",
+        "picture" : "",
+        "pictureObject" : "",
+        "specialty": "",
+        "location": "",
+        "duration": ""
+        }
+      },
+      {
+        "groupid" : 4,
+        "groupname" : "kundendialog",
+        "content" : {
+        "name" : "Fachmann*frau Kundendialog",
+        "description": "",
+        "picture" : "",
+        "pictureObject" : "",
+        "specialty": "",
+        "location": "",
+        "duration": ""
+        }
+      },
+      {
+        "groupid" : 5,
+        "groupname" : "informatik",
+        "content" : {
+        "name" : "Informatiker*in",
+        "description": "",
+        "picture" : "",
+        "pictureObject" : "",
+        "specialty": "",
+        "location": "",
+        "duration": ""
+        }
+      },
+      {
+        "groupid" : 6,
+        "groupname" : "kauf",
+        "content" : {
+        "name" : "Kaufmann*frau",
+        "description": "",
+        "picture" : "",
+        "pictureObject" : "",
+        "specialty": "",
+        "location": "",
+        "duration": ""
+        }
+      },
+      {
+        "groupid" : 7,
+        "groupname" : "konstrukt",
+        "content" : {
+        "name" : "Konstrukteur*in",
+        "description": "",
+        "picture" : "",
+        "pictureObject" : "",
+        "specialty": "",
+        "location": "",
+        "duration": ""
+        }
+      },
+      {
+        "groupid" : 8,
+        "groupname" : "logistik",
+        "content" : {
+        "name" : "Logistiker*in",
+        "description": "",
+        "picture" : "",
+        "pictureObject" : "",
+        "specialty": "",
+        "location": "",
+        "duration": ""
+        }
+      },
+      {
+        "groupid" : 9,
+        "groupname" : "mediamatik",
+        "content" : {
+        "name" : "Mediamatiker*in",
+        "description": "",
+        "picture" : "",
+        "pictureObject" : "",
+        "specialty": "",
+        "location": "",
+        "duration": ""
+        }
+      },
+      {
+        "groupid" : 10,
+        "groupname" : "polymechanik",
+        "content" : {
+        "name" : "Polymechaniker*in",
+        "description": "",
+        "picture" : "",
+        "pictureObject" : "",
+        "specialty": "",
+        "location": "",
+        "duration": ""
+        }
+      }
+    ]
+  }
+  
